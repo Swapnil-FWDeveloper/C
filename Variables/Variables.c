@@ -1,12 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    // fot Number
+   // for Number
    int num=25;
+
    // for Character
-   char star="*"
+   char star="*";
+
    // for decimal value
-   float pi=3.14
+   float pi=3.14;
 
    printf(num)
     return 0;
